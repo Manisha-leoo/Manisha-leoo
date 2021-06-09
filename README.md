@@ -1,3 +1,4 @@
-filename = input("Filename: ")
-k=filename.split(".")
-print("extension name:",k[-1])
+import math
+r=float(input ("enter the radius of circle"))
+A= math.pi*r*r
+Print(%.2f%A)
